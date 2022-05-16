@@ -1,3 +1,4 @@
 */Sybrin_iOS_Identity.framework/Sybrin_iOS_Identity filter=lfs diff=lfs merge=lfs -text
 *Sybrin_iOS_Identity.framework/Sybrin_iOS_Identity filter=lfs diff=lfs merge=lfs -text
 Sybrin_iOS_Identity.framework/Sybrin_iOS_Identity filter=lfs diff=lfs merge=lfs -text
+Sybrin_iOS_Identity filter=lfs diff=lfs merge=lfs -text
